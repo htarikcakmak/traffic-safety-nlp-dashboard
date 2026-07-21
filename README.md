@@ -24,7 +24,7 @@ This application demonstrates my ability to build data-driven web applications, 
 * **Language:** Python
 * **Framework:** Streamlit
 * **Data Analysis:** Pandas, NumPy
-* **NLP & Visualization:** Hugging Face Transformers, Matplotlib, clean-text
+* **NLP & Visualization:** Hugging Face Transformers, Matplotlib, Clean-text
 
 ## ⚙️ How to Run Locally
 If you want to run this project on your local machine, follow these steps:
