@@ -10,7 +10,7 @@ This project is an interactive data analysis and Natural Language Processing (NL
 This application demonstrates my ability to build data-driven web applications, handle datasets, and deploy interactive user interfaces using modern Python frameworks.
 
 ## 🚀 Demo & Screenshots
-> **Note to recruiter/viewer:** Below are the visual demonstrations of the application in action.
+> **Note to viewer:** Below are the visual demonstrations of the application in action.
 
 <img width="1169" height="818" alt="traffic-safety-nlp-dashboard site" src="https://github.com/user-attachments/assets/a51390fa-d1d7-4739-80cd-23dc105f6c35" />
 
